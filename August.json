@@ -1,0 +1,20 @@
+{
+  "title": "August 2025",
+  "questions": [
+    {
+      "question": "August 2025 mein kis desh ne chandrama par ek naya rover bheja hai?",
+      "options": ["America", "Russia", "China", "India"],
+      "answer": "China"
+    },
+    {
+      "question": "Naya Global Climate Summit kis sheher mein aayojit kiya gaya hai?",
+      "options": ["Paris", "Berlin", "Dubai", "New Delhi"],
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Bharat mein 'One Nation, One Election' ke liye kis samiti ka gathan kiya gaya?",
+      "options": ["Ramanath Kovind", "Amit Shah", "Narendra Modi", "Rajiv Kumar"],
+      "answer": "Ramanath Kovind"
+    }
+  ]
+}
